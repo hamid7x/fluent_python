@@ -4,7 +4,7 @@
 class MiniList:
     def __init__(self, data):
         self._data = data
-r versi
+
     def __repr__(self):
         return f"MiniList({self._data})"
 
