@@ -28,9 +28,11 @@ class MyRange:
 
     def __contains__(self, item):
         if self.step > 0:
-            return self.start <= item < self.stop and (item - self.start) % self.step == 0
+            return (self.start <= item < self.stop
+                    and (item - self.start) % self.step == 0)
         else:
-            return self.stop < item <= self.start and (self.start - item) % (-self.step) == 0
+            return (self.stop < item <= self.start
+                    and (self.start - item) % (-self.step) == 0)
 
 
 r = MyRange(10, 0, -5)
