@@ -11,3 +11,4 @@
 #### Exercises:
 - MyList   ✅  
 - MyRange  ✅  
+- MyFunc   ✅  
