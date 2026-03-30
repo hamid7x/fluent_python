@@ -11,4 +11,9 @@
 #### Exercises:
 - MyList   ✅  
 - MyRange  ✅  
-- MyFunc   ✅  
+- MyFunc   ✅ 
+
+### 📘 Chapter 2 — An Array of Sequences
+- **Status**: ⏳ Reading 
+
+#### Exercises:
