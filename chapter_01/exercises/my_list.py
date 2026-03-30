@@ -1,13 +1,13 @@
-"""Mini List"""
+"""My List"""
 
 
-class MiniList:
+class MyList:
     def __init__(self, data):
         self._data = data
         self.x = 1000
 
     def __repr__(self):
-        return f"MiniList({self._data})"
+        return f"MyList({self._data})"
 
     def __len__(self):
         return len(self._data)
@@ -29,7 +29,7 @@ class MiniList:
         return f"{name} not exist"
 
 
-obj = MiniList([10, 20, 30, 40])
+obj = MyList([10, 20, 30, 40])
 lst = [1, 2, 3]
 print(obj)
 print(obj.__dict__)  # get all instance atributes of the object
