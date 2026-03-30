@@ -9,5 +9,5 @@
 - **Status**: ✅ Completed
 
 #### Exercises:
-- MiniList ✅  
+- MyList   ✅  
 - MyRange  ✅  
