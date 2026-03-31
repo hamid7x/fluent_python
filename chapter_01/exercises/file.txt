@@ -1,0 +1,2 @@
+this is just simple text file
+to demonstrate context manager concept
