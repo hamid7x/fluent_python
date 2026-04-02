@@ -22,3 +22,5 @@
 - **Status**: ⏳ Reading 
 
 #### Exercises:
+- resturant_using_abc   ✅  
+- resturant_using_protocol  ✅
