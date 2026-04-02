@@ -23,8 +23,11 @@ def hire_chef(chef):
     print(chef.plate())
     print(chef.clean())
 
+
 chef = SelfTaughtChef()
 print(chef.cook())
 print(chef.plate())
 print(chef.clean())
-# hire_chef(SelfTaughtChef())
+
+
+hire_chef(SelfTaughtChef())
