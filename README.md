@@ -18,6 +18,9 @@
 
 #### Exercises:
 
+### 📘 Chapter 7 — Functions as First-Class Objects
+- **Status**: ⏳ Reading 
+
 ### 📘 Chapter 13 — Interfaces, Protocols, and ABCs
 - **Status**: ⏳ Reading 
 
